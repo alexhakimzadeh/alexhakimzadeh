@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexhakimzadeh
 - 👀 I’m interested in Data Analytics and Full Stack Software Development
-- 🌱 I’m currently learning more about Artificial Intelligence & Security
+- 🌱 I’m currently learning more about Object-Oriented Programming
 - 📫 How to reach me:
 		- email: alexhakimzadeh@gmail.com
 - ⚡ Fun fact:
